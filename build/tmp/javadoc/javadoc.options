@@ -1,0 +1,14 @@
+-classpath 'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\build\\classes\\java\\main;C:\\Users\\artem\\IdeaProjects\\metro-navigator\\build\\resources\\main;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-core\\2.20.0\\eb2a9a47b1396e00b5eee1264296729a70565cc0\\log4j-core-2.20.0.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-api\\2.20.0\\1fe6082e660daf07c689a89c94dc0f49c26b44bb\\log4j-api-2.20.0.jar'
+-d 'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\build\\docs\\javadoc'
+-doctitle 'metro-navigator 1.0.0 API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'metro-navigator 1.0.0 API'
+'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\src\\main\\java\\com\\metro\\algorithm\\MetroPathFinder.java'
+'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\src\\main\\java\\com\\metro\\gui\\MetroGUI.java'
+'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\src\\main\\java\\com\\metro\\Main.java'
+'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\src\\main\\java\\com\\metro\\model\\PathResult.java'
+'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\src\\main\\java\\com\\metro\\utils\\LoggerUtil.java'
+'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\src\\main\\java\\com\\metro\\utils\\MatrixBuilder.java'
+'C:\\Users\\artem\\IdeaProjects\\metro-navigator\\src\\main\\java\\com\\metro\\utils\\ResourceLoader.java'

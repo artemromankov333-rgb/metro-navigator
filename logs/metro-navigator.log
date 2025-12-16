@@ -1,0 +1,80 @@
+2025-12-16 00:07:16.324 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:07:16.350 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:07:16.356 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'Nonexistent'
+2025-12-16 00:07:16.357 [Test worker] WARN  MetroPathFinder - Station not found: A or Nonexistent
+2025-12-16 00:07:16.403 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:07:16.404 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:07:16.404 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'A'
+2025-12-16 00:07:16.405 [Test worker] INFO  MetroPathFinder - Path found: 1 stations, 0 minutes
+2025-12-16 00:07:16.439 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:07:16.439 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:07:16.463 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:07:16.463 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:07:16.465 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'B'
+2025-12-16 00:07:16.466 [Test worker] INFO  MetroPathFinder - Path found: 2 stations, 2 minutes
+2025-12-16 00:07:16.486 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:07:16.487 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:07:16.511 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:07:16.512 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:07:16.512 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'C'
+2025-12-16 00:07:16.512 [Test worker] INFO  MetroPathFinder - Path found: 3 stations, 5 minutes
+2025-12-16 00:07:16.529 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:07:16.530 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:07:16.530 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'C'
+2025-12-16 00:07:16.530 [Test worker] INFO  MetroPathFinder - Path found: 3 stations, 5 minutes
+2025-12-16 00:09:01.263 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:09:01.269 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:09:01.271 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'Nonexistent'
+2025-12-16 00:09:01.272 [Test worker] WARN  MetroPathFinder - Station not found: A or Nonexistent
+2025-12-16 00:09:01.320 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:09:01.320 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:09:01.320 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'A'
+2025-12-16 00:09:01.320 [Test worker] INFO  MetroPathFinder - Path found: 1 stations, 0 minutes
+2025-12-16 00:09:01.344 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:09:01.345 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:09:01.355 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:09:01.362 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:09:01.362 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'B'
+2025-12-16 00:09:01.362 [Test worker] INFO  MetroPathFinder - Path found: 2 stations, 2 minutes
+2025-12-16 00:09:01.379 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:09:01.379 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:09:01.395 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:09:01.395 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:09:01.395 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'C'
+2025-12-16 00:09:01.396 [Test worker] INFO  MetroPathFinder - Path found: 3 stations, 5 minutes
+2025-12-16 00:09:01.412 [Test worker] INFO  MetroPathFinder - Successfully loaded metro matrix with 3 stations
+2025-12-16 00:09:01.413 [Test worker] DEBUG MetroPathFinder - MetroPathFinder initialized with 3 stations
+2025-12-16 00:09:01.413 [Test worker] DEBUG MetroPathFinder - Searching path from 'A' to 'C'
+2025-12-16 00:09:01.413 [Test worker] INFO  MetroPathFinder - Path found: 3 stations, 5 minutes
+2025-12-16 00:09:55.128 [main] INFO  Main - Starting Metro Navigator application
+2025-12-16 00:09:55.234 [main] INFO  Main - Application startup completed
+2025-12-16 00:09:56.302 [AWT-EventQueue-0] INFO  Main - GUI successfully initialized
+2025-12-16 00:10:06.079 [main] INFO  Main - Starting Metro Navigator application
+2025-12-16 00:10:06.196 [main] INFO  Main - Application startup completed
+2025-12-16 00:10:07.028 [AWT-EventQueue-0] INFO  Main - GUI successfully initialized
+2025-12-16 00:30:11.273 [main] INFO  Main - Starting Metro Navigator application
+2025-12-16 00:30:11.379 [main] INFO  Main - Application startup completed
+2025-12-16 00:30:12.297 [AWT-EventQueue-0] INFO  Main - GUI successfully initialized
+2025-12-16 09:16:44.734 [main] INFO  Main - Starting Metro Navigator application
+2025-12-16 09:16:44.898 [main] INFO  Main - Application startup completed
+2025-12-16 09:16:46.192 [AWT-EventQueue-0] INFO  Main - GUI successfully initialized
+2025-12-16 09:17:32.264 [AWT-EventQueue-0] INFO  MetroPathFinder - Successfully loaded metro matrix with 73 stations
+2025-12-16 09:17:32.264 [AWT-EventQueue-0] DEBUG MetroPathFinder - MetroPathFinder initialized with 73 stations
+2025-12-16 09:17:32.264 [AWT-EventQueue-0] DEBUG MetroPathFinder - Searching path from 'Новочеркасская' to 'Автово'
+2025-12-16 09:17:32.264 [AWT-EventQueue-0] INFO  MetroPathFinder - Path found: 11 stations, 25 minutes
+2025-12-16 10:05:12.938 [AWT-EventQueue-0] INFO  MetroPathFinder - Successfully loaded metro matrix with 73 stations
+2025-12-16 10:05:12.962 [AWT-EventQueue-0] DEBUG MetroPathFinder - MetroPathFinder initialized with 73 stations
+2025-12-16 10:05:12.962 [AWT-EventQueue-0] DEBUG MetroPathFinder - Searching path from 'Новочеркасская' to 'Автово'
+2025-12-16 10:05:12.962 [AWT-EventQueue-0] INFO  MetroPathFinder - Path found: 11 stations, 25 minutes
+2025-12-16 10:05:21.366 [AWT-EventQueue-0] INFO  MetroPathFinder - Successfully loaded metro matrix with 73 stations
+2025-12-16 10:05:21.366 [AWT-EventQueue-0] DEBUG MetroPathFinder - MetroPathFinder initialized with 73 stations
+2025-12-16 10:05:21.366 [AWT-EventQueue-0] DEBUG MetroPathFinder - Searching path from 'Шушары' to 'Ладожская'
+2025-12-16 10:05:21.366 [AWT-EventQueue-0] INFO  MetroPathFinder - Path found: 15 stations, 38 minutes
+2025-12-16 10:05:47.326 [AWT-EventQueue-0] INFO  MetroPathFinder - Successfully loaded metro matrix with 73 stations
+2025-12-16 10:05:47.326 [AWT-EventQueue-0] DEBUG MetroPathFinder - MetroPathFinder initialized with 73 stations
+2025-12-16 10:05:47.326 [AWT-EventQueue-0] DEBUG MetroPathFinder - Searching path from 'Девяткино' to 'Рыбацкое'
+2025-12-16 10:05:47.326 [AWT-EventQueue-0] INFO  MetroPathFinder - Path found: 17 stations, 54 minutes
+2025-12-16 10:05:58.109 [AWT-EventQueue-0] INFO  MetroPathFinder - Successfully loaded metro matrix with 73 stations
+2025-12-16 10:05:58.109 [AWT-EventQueue-0] DEBUG MetroPathFinder - MetroPathFinder initialized with 73 stations
+2025-12-16 10:05:58.109 [AWT-EventQueue-0] DEBUG MetroPathFinder - Searching path from 'Ладожская' to 'Звёздная'
+2025-12-16 10:05:58.109 [AWT-EventQueue-0] INFO  MetroPathFinder - Path found: 15 stations, 38 minutes

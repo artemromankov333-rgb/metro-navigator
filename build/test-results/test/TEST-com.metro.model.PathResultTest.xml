@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PathResult Tests" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-12-15T21:09:01.482Z" hostname="DESKTOP-AMGQNF9" time="0.115">
+  <properties/>
+  <testcase name="[1] " classname="com.metro.model.PathResultTest" time="0.037"/>
+  <testcase name="[2]    " classname="com.metro.model.PathResultTest" time="0.002"/>
+  <testcase name="Error result" classname="com.metro.model.PathResultTest" time="0.004"/>
+  <testcase name="Empty path with error" classname="com.metro.model.PathResultTest" time="0.005"/>
+  <testcase name="Successful result - creation and property checks" classname="com.metro.model.PathResultTest" time="0.008"/>
+  <testcase name="Negative time" classname="com.metro.model.PathResultTest" time="0.002"/>
+  <testcase name="Path immutability" classname="com.metro.model.PathResultTest" time="0.004"/>
+  <testcase name="Formatted result - error" classname="com.metro.model.PathResultTest" time="0.001"/>
+  <testcase name="Formatted result - success" classname="com.metro.model.PathResultTest" time="0.003"/>
+  <testcase name="Equality and hashCode" classname="com.metro.model.PathResultTest" time="0.002"/>
+  <testcase name="ToString contains important information" classname="com.metro.model.PathResultTest" time="0.01"/>
+  <testcase name="Factory methods" classname="com.metro.model.PathResultTest" time="0.003"/>
+  <testcase name="Error from exception" classname="com.metro.model.PathResultTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

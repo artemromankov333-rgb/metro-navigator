@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MetroPathFinder Tests" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-12-15T21:08:59.459Z" hostname="DESKTOP-AMGQNF9" time="1.958">
+  <properties/>
+  <testcase name="Station not found" classname="com.metro.algorithm.MetroPathFinderTest" time="1.846"/>
+  <testcase name="Path from station to itself" classname="com.metro.algorithm.MetroPathFinderTest" time="0.025"/>
+  <testcase name="Non-existent matrix file" classname="com.metro.algorithm.MetroPathFinderTest" time="0.015"/>
+  <testcase name="Find existing path" classname="com.metro.algorithm.MetroPathFinderTest" time="0.014"/>
+  <testcase name="Get all stations" classname="com.metro.algorithm.MetroPathFinderTest" time="0.017"/>
+  <testcase name="Find path with transfer" classname="com.metro.algorithm.MetroPathFinderTest" time="0.011"/>
+  <testcase name="Check path validity" classname="com.metro.algorithm.MetroPathFinderTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
